@@ -3,6 +3,7 @@
 static int ret_true(lua_State *L){
   lua_pushboolean(L, 1);
   return 1;
+  
 }
 
 int luaopen_foo_core(lua_State *L){
