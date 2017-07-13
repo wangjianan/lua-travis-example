@@ -2,6 +2,10 @@
 [![Coverage Status](https://coveralls.io/repos/moteus/lua-travis-example/badge.png?branch=master)](https://coveralls.io/r/moteus/lua-travis-example?branch=master)
 [![License](http://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
+[![Build Status](https://travis-ci.org/wangjianan/lua-travis-example.svg?branch=master)](https://travis-ci.org/wangjianan/lua-travis-example)
+
+[![Build Status](https://travis-ci.org/wangjianan/lua-travis-example.svg?branch=master)](https://travis-ci.org/wangjianan/lua-travis-example)
+
 ### This project demonstrates how to:
 * Install Lua 5.1/5.2/5.3/JIT
 * Install LuaRocks
